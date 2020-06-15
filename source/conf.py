@@ -66,3 +66,11 @@ html_static_path = ['_static']
 master_doc = 'index'
 
 html_logo = 'img/placeholder_logo.png'
+
+html_css_files = [
+    "css/custom.css",
+]
+
+html_js_files = [
+    "js/custom.js",
+]

@@ -22,7 +22,12 @@ Related Tools
 
 * Aseprite (https://www.aseprite.org/)
 
-Documenation Pages
+Attribution
+-----------
+
+This documentation hosted at `Read the Docs <https://readthedocs.org/>`_, and the custom theme is from `Godot documentation <https://docs.godotengine.org/en/latest/index.html>`_.
+
+Documentation Pages
 ------------------
 
 .. toctree::

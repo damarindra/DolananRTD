@@ -26,8 +26,7 @@ Documenation Pages
 ------------------
 
 .. toctree::
-  :titlesonly:
-  :maxdepth: 1
+  :maxdepth: 4
   :caption: Getting started
   :name: sec-learn
 
